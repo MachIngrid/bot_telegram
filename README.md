@@ -1,5 +1,5 @@
 # bot_telegram
-This repository is destined to the files of a telegram bot that calls the suport team os a group.
+This repository is destined to the files of a telegram bot that calls the suport team of a group.
 
 ## Propouse
 this shuld work as a caller from selected integrants in a group from telegram.
